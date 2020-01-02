@@ -12,24 +12,6 @@ people:
 - name: Andrew Coker
   pic: andrew
   position: Lead Consultant
-  # social:
-  #   - title: twitter
-  #     url: #
-  #   - title: facebook
-  #     url: #
-  #   - title: stack-overflow
-  #     url: #
-
-- name: Carlee Coker
-  pic: carlee
-  position: Senior Consultant
-  # social:
-  #   - title: twitter
-  #     url: #
-  #   - title: facebook
-  #     url: #
-  #   - title: linkedin
-  #     url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
